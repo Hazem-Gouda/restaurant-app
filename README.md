@@ -27,6 +27,8 @@ This app is designed for a smooth ordering experience, optimized for both deskto
 ### 📸 Screenshots
 
 ![Restaurant App Screenshot](/imgs/screenshot1.png)
+![Restaurant App Screenshot2](/imgs/screenshot2.png)
+![Restaurant App Screenshot3](/imgs/screenshot3.png)
 
 ---
 

@@ -21,7 +21,7 @@ This app is designed for a smooth ordering experience, optimized for both deskto
 - 🚀 Using **Redux (for learning)** state management   
 - 📱 Fully responsive layout with **Bootstrap**  
 - 🔄 Dynamic UI updates without page reload  
-
+- ♿ Improved Accessibility (a11y) for better user experience
 ---
 
 ### 📸 Screenshots
@@ -37,8 +37,14 @@ This app is designed for a smooth ordering experience, optimized for both deskto
 - [Bootstrap](https://getbootstrap.com/) – Responsive design framework  
 - [React Router](https://reactrouter.com/) – Page navigation  
 - [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Core scripting language
+- Accessibility (a11y) best practices
 
 ---
+
+📄 License
+This project is licensed under the MIT License — feel free to use and modify it.
+
+## Made with ❤️ by Hazem Gouda
 
 ### 📦 Installation
 

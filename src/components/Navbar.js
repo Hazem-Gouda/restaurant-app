@@ -107,9 +107,12 @@ const Navbar = () => {
         </ul>
         {/* Hamburger toggler for mobile only */}
         <button
+          id="navbar-toggler"
           className="navbar-toggler d-lg-none"
           type="button"
-          aria-label="Toggle navigation"
+          aria-controls="mobile-menu"
+          aria-expanded={menuOpen}
+          aria-label={menuOpen ? "Close navigation menu" : "Open navigation menu"}
           style={{
             border: "none",
             background: "transparent",
@@ -123,6 +126,10 @@ const Navbar = () => {
         </button>
         {/* Mobile menu (slide-in) */}
         <div
+          id="mobile-menu"
+          role="dialog"
+          aria-modal="true"
+          aria-labelledby="navbar-toggler"
           className={`navbar-menu${menuOpen ? "open" : ""} d-lg-none`}
           style={{
             position: "fixed",

@@ -17,7 +17,6 @@ This app is designed for a smooth ordering experience, optimized for both deskto
 ### 🚀 Features
 
 - 📋 Browse menu items with images, descriptions, and prices  
-- ➕ Add and remove items from the cart  
 - 🚀 Using **Redux (for learning)** state management   
 - 📱 Fully responsive layout with **Bootstrap**  
 - 🔄 Dynamic UI updates without page reload  

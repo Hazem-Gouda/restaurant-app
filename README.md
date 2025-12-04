@@ -9,7 +9,7 @@ Click here to view the live demo:
 
 ### 🥗 About the Project
 
-A modern, responsive **Restaurant App** for my ex-real restaurant :( , now fully migrated to the **Next.js** framework. This project serves as **Version 2** of the application, focusing on improved performance, SEO, and modern tooling while maintaining the core functionality: allowing users to browse a menu and view contact info.
+A modern, responsive **Restaurant App** for my ex-real restaurant :( , now fully migrated to the **Next.js** framework. This project serves as **Version 2** of the application.
 
 This version leverages **Next.js** capabilities for server-side rendering (SSR) and static site generation (SSG) where appropriate, offering a faster and more robust user experience than the previous React-only setup.
 
@@ -20,7 +20,6 @@ This version leverages **Next.js** capabilities for server-side rendering (SSR) 
 - ⚡ **Enhanced Performance:** Utilizes Next.js optimization features like **Image Component** and automatic code splitting.
 - ⚙️ **Routing:** Leverages Next.js's built-in file-system routing.
 - 📋 Browse menu items with images, descriptions, and prices.
-- ➕ Add and remove items from the cart.
 - 🚀 Uses **Redux** state management (as learned in V1) for complex state needs.
 - 📱 Fully responsive layout with **Bootstrap**.
 - ♿ Improved Accessibility (a11y) for better user experience.

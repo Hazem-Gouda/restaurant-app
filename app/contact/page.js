@@ -40,7 +40,7 @@ export default function Contact() {
           <div className="contact-info">
             <p>
               <strong>Phone & Delivery number:</strong>{' '}
-              <a href="tel:+201021887030">+201021887030</a>
+              <a href="tel:+201021987030">+201021987030</a>
             </p>
             <p>
               <strong>Location:</strong> Sherbin, Dakahlia, Egypt
